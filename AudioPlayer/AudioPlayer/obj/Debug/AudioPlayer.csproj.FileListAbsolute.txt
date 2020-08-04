@@ -1,0 +1,9 @@
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Form1.resources
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
