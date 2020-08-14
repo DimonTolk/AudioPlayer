@@ -7,3 +7,8 @@ D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlay
 D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
 D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
 D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\Interop.WMPLib.dll
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\Interop.WMPLib.dll
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\(4)Codding\C#Projects\AudioPlayer\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.ResolveComReference.cache
