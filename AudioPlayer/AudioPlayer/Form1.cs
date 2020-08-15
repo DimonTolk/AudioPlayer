@@ -16,6 +16,7 @@ namespace AudioPlayer
     public partial class Form1 : Form
     {
         int angle = 5;
+        bool isPaused = false;
         Image img;
         string fileName = string.Empty;
         MediaPlayer player;
@@ -48,8 +49,18 @@ namespace AudioPlayer
 
         private void button2_Click(object sender, EventArgs e)
         {
-            player.Pause();
-            timer1.Stop();
+            if (isPaused)
+            {
+                isPaused = false;
+                player.Play();
+                timer1.Start();
+            }
+            else
+            {
+                isPaused = true;
+                player.Pause();
+                timer1.Stop();
+            }
         }
 
         private void button3_Click(object sender, EventArgs e)
